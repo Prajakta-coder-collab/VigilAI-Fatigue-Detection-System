@@ -26,3 +26,6 @@ https://a058fb2b-b383-4ada-be47-03078ce74519-00-1cqjkguzd5zub.pike.replit.dev/
 - Eye tracking and blink analysis
 - Voice fatigue analysis
 - AI recommendation engine
+
+## Screenshots
+Dashboard and analytics screenshots uploaded separately in repository files.
