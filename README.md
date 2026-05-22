@@ -19,7 +19,7 @@ VigilAI is an AI-powered multimodal fatigue monitoring dashboard designed for st
 - Dashboard Analytics
 
 ## Live Demo
-https://a058fb2b-b383-4ada-be47-03078ce74519-00-1cqjkguzd5zub.pike.replit.dev
+https://a058fb2b-b383-4ada-be47-03078ce74519-00-1cqjkguzd5zub.pike.replit.dev/
 
 ## Future Scope
 - Webcam-based fatigue detection
